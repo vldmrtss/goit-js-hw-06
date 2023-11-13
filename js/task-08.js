@@ -15,6 +15,6 @@ function formSubmit(event) {
 
     console.log(formData);
 
-    form.reset();
+    loginForm.reset();
   }
 }
